@@ -167,10 +167,10 @@ gulp.src('./client/templates/*.jade')
 
 > **Gaze：** 一个基于其他几个很好的监听库中的精华部分而构建的模式匹配的 ***fs.watch*** 包装器。
 **options** 需要传入的 ***options*** 对象.
-1. **interval** *{integer}* 传给 fs.watchFile 方法的代表轮询时间间隔的数字
-2. **debounceDelay** *{integer}* 对于相同文件或者事件执行成功回调延时的毫秒数
-3. **mode** *{string}* 指定监听模式. 'auto' (默认)、 'watch' (基于原生事件)、 或者 'poll' (使用状态轮询).
-4. **cwd** *{string}* 相对于 gen'mu'l的当前工作目录. 默认为 process.cwd().
+> - **interval** *{integer}* 传给 fs.watchFile 方法的代表轮询时间间隔的数字
+> - **debounceDelay** *{integer}* 对于相同文件或者事件执行成功回调延时的毫秒数
+> - **mode** *{string}* 指定监听模式. 'auto' (默认)、 'watch' (基于原生事件)、 或者 'poll' (使用状态轮询).
+> - **cwd** *{string}* 相对于 gen'mu'l的当前工作目录. 默认为 process.cwd().
 
 ##### tasks
 类型： Array
