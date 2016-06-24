@@ -7,4 +7,5 @@
 * [Gulp插件——gulp-uitl](gulp_uitl.md)
 * [Gulp插件——gulp-watch](gulp_watch.md)
 * [Gulp插件 —— gulp-concat](gulp-concat.md)
+* Gulp插件——gulp-uglify
 
