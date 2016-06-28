@@ -9,4 +9,5 @@
 * [Gulp插件——gulp-concat](gulp-concat.md)
 * [Gulp插件——gulp-uglify](gulp_uglify.md)
 * [Gulp插件——gulp-less](gulp_less.md)
+* Gulp插件——gulp-plumber
 
