@@ -10,5 +10,5 @@
 * [Gulp插件——gulp-uglify](gulp_uglify.md)
 * [Gulp插件——gulp-less](gulp_less.md)
 * [Gulp插件——gulp-plumber](gulp_plumber.md)
-* Gulp插件——gulp-connect
+* [Gulp插件——gulp-connect](gulp_connect.md)
 
