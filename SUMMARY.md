@@ -15,4 +15,5 @@
 * [Gulp插件——gulp-load-plugins](gulp_load_plugins.md)
 * [Gulp插件——rimraf&gulp-rimraf](gulp_rimraf.md)
 * [Gulp插件——gulp-autoprefixer](gulp_autoprefixer.md)
+* Gulp插件——gulp-filter
 
