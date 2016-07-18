@@ -107,9 +107,7 @@ gulp.task('default', () => {
 - **pattern**
 类型: string, array, function
 接受一个代表模式匹配的字符串或者数组，他们会在运行时使用多重匹配。
-Accepts a string/array with globbing patterns which are run through multimatch.
 如果你传递一个方法，会通过第一个参数得到一个 ***vinyl*** 文件对象，你需要传递 ***true*** 或者 ***false*** 来决定是否要包含这个文件。
-If you supply a function you'll get a vinyl file object as the first argument and you're expected to return true/false whether to include the file:
 ```javascript
 filter(file => /unicorns/.test(file.path));
 ```
