@@ -16,4 +16,5 @@
 * [Gulp插件——rimraf&gulp-rimraf](gulp_rimraf.md)
 * [Gulp插件——gulp-autoprefixer](gulp_autoprefixer.md)
 * [Gulp插件——gulp-filter](gulp_filter.md)
+* Gulp插件——gulp-rev
 
